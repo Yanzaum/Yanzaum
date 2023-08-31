@@ -5,6 +5,16 @@
 <p>Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores. Estou aberto a novas oportunidades, então sinta-se à vontade para entrar em contato comigo! 
 </p>
 
+```typescript
+const myself: MyselfType = {
+  greeting: "Bem vindo(a)! 👋",
+  name: "Yan David",
+  age: 24,
+  address: "Retirolândia - BA",
+  employment: "Desenvolvedor Fullstack",
+};
+```
+
 <hr/>
 
 <div align="center">
