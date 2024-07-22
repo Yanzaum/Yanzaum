@@ -10,7 +10,7 @@ const myself: MyselfType = {
   greeting: "Bem vindo(a)! 👋",
   name: "Yan David",
   age: 25,
-  address: "Retirolândia - BA",
+  address: "Bahia - Brasil",
   employment: "Desenvolvedor Fullstack",
 };
 ```
