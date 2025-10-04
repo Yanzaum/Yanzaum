@@ -24,7 +24,7 @@ const myself: MyselfType = {
 <br/>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs,express,prisma,postgres,css,html,vite,vuejs,php,laravel,graphql,mysql,mongodb,sqlite,sequelize,express,postgres,tailwind,bootstrap,postman,prisma&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs,express,prisma,postgres,mysql,css,html,vite,vuejs,php,laravel,graphql,mysql,mongodb,sqlite,sequelize,tailwind,bootstrap,postman,prisma&perline=10" />
 </p>
 
 <div align="center"> 
